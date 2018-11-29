@@ -1,2 +1,2 @@
 # Data-Projects
-Data Science projects
+In this project, you'll be working with Jupyter notebook and analyzing data on the Star Wars movies. We will see how the gender changes the statistics.
